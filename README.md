@@ -19,7 +19,7 @@ A repository containing data science projects completed by me for school, self-t
 		
 		- [Feature Engineering CitiBike Data](): Cleaned, wrangled, and processed CitiBike data by merging or adding new features for data analysis. (See next: "[Exploring Feature Engineered CitiBike Data]()")
 		
-	_Libraries/Packages: NumPy, Pandas, Pandas API, datetime, PyProj_ 
+	_Libraries/Packages: NumPy, Pandas, Pandas API, datetime, PyProj, category_encoders (including CatBoost)_ 
 
 	- __R__ 
 		- [Cleaning Scraped TED Talks](): Cleaned and wrangled scraped data from TED Talks. (See previously: "[Scraping TED Talks]()"; See next: "[Measuring Trendiness of TED Talks]()")
