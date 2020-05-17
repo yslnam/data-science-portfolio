@@ -15,7 +15,7 @@ A repository containing data science projects completed by me for school, self-t
 	
 - ### Data Cleaning, Wrangling, and Processing
 	- __Python__
-		- [Project Name](): Project description here
+		- [Feature Engineering CitiBike Data](): Cleaned, wrangled, and processed CitiBike data by merging or adding new features for data analysis.
 		
 	_Libraries/Packages:_ 
 
@@ -26,7 +26,7 @@ A repository containing data science projects completed by me for school, self-t
 
 - ### Data Analysis
 	- __Python__
-		- [Project Name](): Project description here
+		- [Exploring Feature Engineered CitiBike Data](): Conducted exploratory data analysis of feature engineered CitiBike Data. Identified user, geographic, and station usage patterns in CitiBike rides in order to identify underserved population.
 		
 	_Libraries/Packages:_ 
 
