@@ -39,7 +39,7 @@ A repository containing data science projects completed by me for school, self-t
 
 - ### Modeling
 	- __Machine Learning__
-		- [Predicting Housing Prices in Ames, Iowa](): Modeled and predicted housing prices in Ames, Iowa using random forest, an unsupervised learning method.
+		- [Predicting Housing Prices in Ames, Iowa](): Modeled and predicted housing prices in Ames, Iowa using random forest, an unsupervised learning method. (See next: "[]()")
 		
 	 _Libraries/Packages:_ 
 	
@@ -50,7 +50,9 @@ A repository containing data science projects completed by me for school, self-t
 
 - ### Data Visualization
 	- __Python__
-		- [Visualizing Patterns in CitiBike Rides](): Visualized user, geographic, and station usage patterns in CitiBike rides from feature engineered data.
+		- [Valuating Houses in Ames, Iowa](): Selected key features in predictive random forest modeling for housing prices in Ames, Iowa. Used "black box" deconstruction techniques to interpret random forest model and results. (See previously: "[Predicting Housing Prices in Ames, Iowa]()")
+	
+		- [Visualizing Patterns in CitiBike Rides](): Visualized user, geographic, and station usage patterns in CitiBike rides from feature engineered data. 
 		
 	_Libraries/Packages:_ 
 
