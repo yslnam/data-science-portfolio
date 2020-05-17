@@ -16,7 +16,8 @@ A repository containing data science projects completed by me for school, self-t
 │   ├── processing    	<- Structured data preprocessing and processing
 │   ├── analysis    	<- Structured data analysis
 │
-├── modeling           	<- Trained and tested regression and machine learning models, as well as NLP methods
+├── modeling           	<- Trained and tested regression and machine learning 
+│			   models, as well as NLP methods
 │
 ├── visualizations      <- Data visualization and reporting
 │                                           
