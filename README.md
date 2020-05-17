@@ -31,7 +31,7 @@ A repository containing data science projects completed by me for school, self-t
 	_Libraries/Packages:_ 
 
 	- __R__ 
-		- [Measuring "Trendiness" of TED Talks](): Constructed multivariate and composite indicators to measure “trendiness.” (See previously: "[Cleaning Scraped TED Talks]()"; See next: "[Visualizing Trends in TED Talks]()")
+		- [Measuring "Trendiness" of TED Talks](): Constructed multivariate and composite indicators to measure “trendiness” of global issues, science, and technology TED Talks. (See previously: "[Cleaning Scraped TED Talks]()"; See next: "[Visualizing Trends in TED Talks]()")
 	
 	_Libraries/Packages: tidyverse, lubridate_ 
 
