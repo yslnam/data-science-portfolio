@@ -15,6 +15,8 @@ A repository containing data science projects completed by me for school, self-t
 	
 - ### Data Cleaning, Wrangling, and Processing
 	- __Python__
+		- [Encoding Categorical Features for Predictive Modeling of Ames Housing Prices](): Cleaned, wrangled, and preprocessed Ames, Iowa housing price data for predictive modeling. (See next: "[Predicting Housing Prices in Ames, Iowa]()")
+		
 		- [Feature Engineering CitiBike Data](): Cleaned, wrangled, and processed CitiBike data by merging or adding new features for data analysis. (See next: "[Exploring Feature Engineered CitiBike Data]()")
 		
 	_Libraries/Packages: NumPy, Pandas, Pandas API, datetime, PyProj_ 
@@ -39,7 +41,7 @@ A repository containing data science projects completed by me for school, self-t
 
 - ### Modeling
 	- __Machine Learning__
-		- [Predicting Housing Prices in Ames, Iowa](): Modeled and predicted housing prices in Ames, Iowa using random forest, an unsupervised learning method. (See next: "[Valuating Houses in Ames, Iowa]()")
+		- [Predicting Housing Prices in Ames, Iowa](): Modeled and predicted housing prices in Ames, Iowa using random forest, an unsupervised learning method. (See previously: "[Encoding Categorical Features for Predictive Modeling of Ames Housing Prices]()"; Seenext: "[Valuating Houses in Ames, Iowa]()")
 		
 	 _Libraries/Packages: scikit-learn_ 
 	
