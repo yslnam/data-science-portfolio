@@ -31,13 +31,15 @@ A repository containing data science projects completed by me for school, self-t
 	_Libraries/Packages:_ 
 
 	- __R__ 
+		- [Exploring Conflict Risk Indicators](): Created an interactive map of conflict risk indicators by country. (See next: "[Globally Mapping Conflict Risk Indicators]()")
+	
 		- [Measuring "Trendiness" of TED Talks](): Constructed multivariate and composite indicators to measure “trendiness” of global issues, science, and technology TED Talks. (See previously: "[Cleaning Scraped TED Talks]()"; See next: "[Visualizing Trends in TED Talks]()")
 	
 	_Libraries/Packages: tidyverse, lubridate_ 
 
 - ### Modeling
 	- __Machine Learning__
-		- [Project Name](): Project description here	
+		- [Predicting Housing Prices in Ames, Iowa](): Modeled and predicted housing prices in Ames, Iowa using random forest, an unsupervised Machine Learning method.
 		
 	 _Libraries/Packages:_ 
 	
@@ -53,6 +55,8 @@ A repository containing data science projects completed by me for school, self-t
 	_Libraries/Packages:_ 
 
 	- __R__ 
+		- [Globally Mapping Conflict Risk Indicators](): Created an interactive map of conflict risk indicators by country. (See previously: "[]()")
+		
 		- [Visualizing Trends in TED Talks](): Visualized trends in global issues, science, and technology TED Talks using self-constructed multivariate and composite indicators. (See previously: "[User Sentiment on TED Talk Trends]()")
 		
   	_Libraries/Packages: tidyverse, scales, paletteer, ggally, hrbrthemes_ 
