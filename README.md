@@ -2,7 +2,7 @@
 A repository containing data science projects completed by me for school, self-taught purposes, and/or fun.
 
 * Languages: Python, R
-* Format: iPython, R Markdown Files
+* Format: iPython, R Markdown, R Shiny Server and UI
 * Demonstrated skills: Extraction, Cleaning, Wrangling, Processing, Analysis, Modeling, Visualization
 * Specialities: Web Scraping, Machine Learning, Natural Language Processing (NLP)
 
