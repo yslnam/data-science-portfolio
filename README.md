@@ -39,7 +39,7 @@ A repository containing data science projects completed by me for school, self-t
 
 - ### Modeling
 	- __Machine Learning__
-		- [Predicting Housing Prices in Ames, Iowa](): Modeled and predicted housing prices in Ames, Iowa using random forest, an unsupervised learning method. (See next: "[]()")
+		- [Predicting Housing Prices in Ames, Iowa](): Modeled and predicted housing prices in Ames, Iowa using random forest, an unsupervised learning method. (See next: "[Valuating Houses in Ames, Iowa]()")
 		
 	 _Libraries/Packages:_ 
 	
