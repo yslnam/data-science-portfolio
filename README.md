@@ -15,7 +15,7 @@ A repository containing data science projects completed by me for school, self-t
 	
 - ### Data Cleaning, Wrangling, and Processing
 	- __Python__
-		- [Feature Engineering CitiBike Data](): Cleaned, wrangled, and processed CitiBike data by merging or adding new features for data analysis.
+		- [Feature Engineering CitiBike Data](): Cleaned, wrangled, and processed CitiBike data by merging or adding new features for data analysis. (See next: "[Exploring Feature Engineered CitiBike Data]()")
 		
 	_Libraries/Packages:_ 
 
@@ -26,7 +26,7 @@ A repository containing data science projects completed by me for school, self-t
 
 - ### Data Analysis
 	- __Python__
-		- [Exploring Feature Engineered CitiBike Data](): Conducted exploratory data analysis of feature engineered CitiBike Data. Identified user, geographic, and station usage patterns in CitiBike rides in order to identify underserved population.
+		- [Exploring Feature Engineered CitiBike Data](): Conducted exploratory data analysis of feature engineered CitiBike Data. Identified user, geographic, and station usage patterns in CitiBike rides in order to identify underserved population. (See previously: "[Feature Engineering CitiBike Data]()"; See next: "[Visualizing Patterns in CitiBike Rides]()")
 		
 	_Libraries/Packages:_ 
 
@@ -35,17 +35,6 @@ A repository containing data science projects completed by me for school, self-t
 	
 	_Libraries/Packages: tidyverse, lubridate_ 
 
-- ### Data Visualization
-	- __Python__
-		- [Project Name](): Project description here
-		
-	_Libraries/Packages:_ 
-
-	- __R__ 
-		- [Visualizing Trends in TED Talks](): Visualized trends in global issues, science, and technology TED Talks using self-constructed multivariate and composite indicators. (See previously: "[Measuring 'Trendiness' of TED Talks]()")
-		
-  	_Libraries/Packages: tidyverse, scales, paletteer, ggally, hrbrthemes_ 
-
 - ### Modeling
 	- __Machine Learning__
 		- [Project Name](): Project description here	
@@ -53,8 +42,19 @@ A repository containing data science projects completed by me for school, self-t
 	 _Libraries/Packages:_ 
 	
 	- __NLP__
-		- [Project Name](): Project description here
+		- [User Sentiment on TED Talk Trends](): Modeled and analyzed user comments from trending TED Talks in global issues, science, and technololgy. (See previously: "[Measuring 'Trendiness' of TED Talks](); See next: "[Visualizing Trends in TED Talks]()")
 		
 	 _Libraries/Packages:_ 
+
+- ### Data Visualization
+	- __Python__
+		- [Visualizing Patterns in CitiBike Rides](): user, geographic, and station usage patterns in CitiBike rides from feature engineered data.
+		
+	_Libraries/Packages:_ 
+
+	- __R__ 
+		- [Visualizing Trends in TED Talks](): Visualized trends in global issues, science, and technology TED Talks using self-constructed multivariate and composite indicators. (See previously: "[User Sentiment on TED Talk Trends]()")
+		
+  	_Libraries/Packages: tidyverse, scales, paletteer, ggally, hrbrthemes_ 
 
 - ### Mini Projects
