@@ -6,6 +6,23 @@ A repository containing data science projects completed by me for school, self-t
 * Demonstrated skills: Extraction, Cleaning, Wrangling, Processing, Analysis, Modeling, Visualization
 * Specialities: Web Scraping, Machine Learning, Natural Language Processing (NLP)
 
+## Directory Structure
+```
+├── README.md           <- Top-level README
+│
+├── data                <- All tasks for unstructured and structured data types
+│   ├── extraction      <- Unstructured data extraction, e.g. web scraping
+│   ├── cleaning 	<- Raw, structured data cleaning and wrangling
+│   ├── processing    	<- Structured data preprocessing and processing
+│   ├── analysis    	<- Structured data analysis
+│
+├── modeling           	<- Trained and tested regression and machine learning models, as well as NLP methods
+│
+├── visualizations      <- Data visualization and reporting
+│                                           
+├── .gitignore          <- Avoids uploading data, credentials, outputs, system files etc
+```
+
 ## Contents
 - ### Data Extraction
 	- __Web Scraping__
@@ -41,7 +58,7 @@ A repository containing data science projects completed by me for school, self-t
 
 - ### Modeling
 	- __Machine Learning__
-		- [Predicting Housing Prices in Ames, Iowa](): Modeled and predicted housing prices in Ames, Iowa using random forest, an unsupervised learning method. (See previously: "[Encoding Categorical Features for Predictive Modeling of Ames Housing Prices]()"; Seenext: "[Valuating Houses in Ames, Iowa]()")
+		- [Predicting Housing Prices in Ames, Iowa](): Modeled (trained) and predicted (tested) housing prices in Ames, Iowa using random forest, an unsupervised learning method. (See previously: "[Encoding Categorical Features for Predictive Modeling of Ames Housing Prices]()"; Seenext: "[Valuating Houses in Ames, Iowa]()")
 		
 	 _Libraries/Packages: scikit-learn_ 
 	
