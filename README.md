@@ -50,7 +50,7 @@ A repository containing data science projects completed by me for school, self-t
 
 - ### Data Visualization
 	- __Python__
-		- [Visualizing Patterns in CitiBike Rides](): user, geographic, and station usage patterns in CitiBike rides from feature engineered data.
+		- [Visualizing Patterns in CitiBike Rides](): Visualized user, geographic, and station usage patterns in CitiBike rides from feature engineered data.
 		
 	_Libraries/Packages:_ 
 
