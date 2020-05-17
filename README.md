@@ -42,7 +42,7 @@ A repository containing data science projects completed by me for school, self-t
 	_Libraries/Packages:_ 
 
 	- __R__ 
-		- [Visualizing Trends in TED Talks](): Visualized trends in global issues, science, and technology TED Talks using a constructed multivariate and composite indicators. (See previously: "[Measuring 'Trendiness' of TED Talks]()")
+		- [Visualizing Trends in TED Talks](): Visualized trends in global issues, science, and technology TED Talks using self-constructed multivariate and composite indicators. (See previously: "[Measuring 'Trendiness' of TED Talks]()")
 		
   	_Libraries/Packages: tidyverse, scales, paletteer, ggally, hrbrthemes_ 
 
