@@ -55,7 +55,7 @@ A repository containing data science projects completed by me for school, self-t
 	_Libraries/Packages:_ 
 
 	- __R__ 
-		- [Globally Mapping Conflict Risk Indicators](): Created an interactive map of conflict risk indicators by country. (See previously: "[]()")
+		- [Globally Mapping Conflict Risk Indicators](): Created an interactive map of conflict risk indicators by country. (See previously: "[Exploring Conflict Risk Indicators]()")
 		
 		- [Visualizing Trends in TED Talks](): Visualized trends in global issues, science, and technology TED Talks using self-constructed multivariate and composite indicators. (See previously: "[User Sentiment on TED Talk Trends]()")
 		
