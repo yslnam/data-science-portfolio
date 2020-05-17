@@ -41,7 +41,7 @@ A repository containing data science projects completed by me for school, self-t
 	- __Machine Learning__
 		- [Predicting Housing Prices in Ames, Iowa](): Modeled and predicted housing prices in Ames, Iowa using random forest, an unsupervised learning method. (See next: "[Valuating Houses in Ames, Iowa]()")
 		
-	 _Libraries/Packages:_ 
+	 _Libraries/Packages: scikit-learn_ 
 	
 	- __NLP__
 		- [User Sentiment on TED Talk Trends](): Modeled and analyzed user comments from trending TED Talks in global issues, science, and technololgy. (See previously: "[Measuring 'Trendiness' of TED Talks](); See next: "[Visualizing Trends in TED Talks]()")
