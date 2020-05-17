@@ -31,7 +31,7 @@ A repository containing data science projects completed by me for school, self-t
 	_Libraries/Packages:_ 
 
 	- __R__ 
-		- [Exploring Conflict Risk Indicators](): Created an interactive map of conflict risk indicators by country. (See next: "[Globally Mapping Conflict Risk Indicators]()")
+		- [Exploring Conflict Risk Indicators](): Created a "quick and dirty" exploratory data analysis dashboard and interactive tool. Developed a Shiny app to compile all interactive visualizations. (See next: "[Globally Mapping Conflict Risk Indicators]()")
 	
 		- [Measuring "Trendiness" of TED Talks](): Constructed multivariate and composite indicators to measure “trendiness” of global issues, science, and technology TED Talks. (See previously: "[Cleaning Scraped TED Talks]()"; See next: "[Visualizing Trends in TED Talks]()")
 	
@@ -55,7 +55,7 @@ A repository containing data science projects completed by me for school, self-t
 	_Libraries/Packages:_ 
 
 	- __R__ 
-		- [Globally Mapping Conflict Risk Indicators](): Created an interactive map of conflict risk indicators by country. (See previously: "[Exploring Conflict Risk Indicators]()")
+		- [Globally Mapping Conflict Risk Indicators](): Created an interactive map of conflict risk indicators by country using leaflet. Developed a Shiny app to compile all interactive visualizations. (See previously: "[Exploring Conflict Risk Indicators]()")
 		
 		- [Visualizing Trends in TED Talks](): Visualized trends in global issues, science, and technology TED Talks using self-constructed multivariate and composite indicators. (See previously: "[User Sentiment on TED Talk Trends]()")
 		
