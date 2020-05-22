@@ -23,6 +23,12 @@ A repository containing data science projects completed by me for school, self-t
 ├── .gitignore          <- Avoids uploading data, credentials, outputs, system files etc
 ```
 
+## Projects
+1. Macro Risk Index
+2. Trends in TED Talks on Global Issues, Science, and Technology
+3. Valuating Houses in Ames, Iowa Using Predictive Modeling
+4. Identifying Underserved Populations as CitiBike Customers
+
 ## Contents
 - ### Data Extraction
 	- __Web Scraping__
