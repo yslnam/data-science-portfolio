@@ -8,19 +8,20 @@ A repository containing data science projects completed by me for school, self-t
 
 ## Directory Structure
 ```
-├── README.md           <- Top-level README
+├── README.md           		<- Top-level README
 │
-├── data                <- All tasks for unstructured and structured data types
-│   ├── extraction      <- Unstructured data extraction, e.g. web scraping
-│   ├── cleaning 	<- Raw, structured data cleaning and wrangling
-│   ├── processing    	<- Structured data preprocessing and processing
-│   ├── analysis    	<- Structured data analysis
+├── data                		<- All tasks for unstructured and structured data types
+│   ├── extraction      		<- Unstructured data extraction, e.g. web scraping
+│   ├── cleaning 			<- Raw data cleaning and wrangling
+│   ├── processing    			<- Data preprocessing and processing
+│   ├── analysis_and_visualization    	<- Data analysis and visualization
 │
-├── modeling           	<- Trained and tested regression, machine learning, and NLP models
+├── modeling           			<- Trained and tested machine learning models
 │
-├── visualizations      <- Data visualization and reporting
+├── apps      				<- Interactive data visualization
 │                                           
-├── .gitignore          <- Avoids uploading data, credentials, outputs, system files etc
+├── .gitignore          		<- Avoids uploading data, credentials, outputs,
+│					   system files, etc.
 ```
 
 ## Projects
@@ -51,14 +52,14 @@ A repository containing data science projects completed by me for school, self-t
 
 - ### Data Analysis and Visualization
 	- __Python__
-		- [Exploring Feature Engineered CitiBike Data](https://github.com/yslnam/data-science-portfolio/tree/master/data/analysis/citibike-data): Conducted exploratory data analysis of feature engineered CitiBike Data. Identified user, geographic, and station usage, and net inflow/outflow patterns in CitiBike rides in order to identify underserved population. Visualized user, geographic, and station usage patterns in CitiBike rides from feature engineered data. (See previously: "[Feature Engineering CitiBike Data](https://github.com/yslnam/data-science-portfolio/tree/master/data/processing/citibike-data)")
+		- [Exploring Feature Engineered CitiBike Data](https://github.com/yslnam/data-science-portfolio/tree/master/data/analysis_and_visualization/citibike-data): Conducted exploratory data analysis of feature engineered CitiBike Data. Identified user, geographic, and station usage, and net inflow/outflow patterns in CitiBike rides in order to identify underserved population. Visualized user, geographic, and station usage patterns in CitiBike rides from feature engineered data. (See previously: "[Feature Engineering CitiBike Data](https://github.com/yslnam/data-science-portfolio/tree/master/data/processing/citibike-data)")
 		
 		- [Valuating Houses in Ames, Iowa](https://github.com/yslnam/data-science-portfolio/blob/master/modeling/ML/predict-ames-housing-prices/yousun_random-forest.ipynb): Selected key features in predictive random forest modeling for housing prices in Ames, Iowa. Used "black box" deconstruction techniques to interpret random forest model and results. (See previously: "[Predicting Housing Prices in Ames, Iowa](https://github.com/yslnam/data-science-portfolio/tree/master/modeling/ML/predict-ames-housing-prices)")
 		
 	_Libraries/Packages: NumPy, Pandas, Pandas API, datetime, Seaborn, Matplotlib, Plotly, scikit-learn, pprint, rfpimp, treeinterpreter_
 
 	- __R__ 
-		- [Exploring and Mapping Conflict Risk Indicators](https://github.com/yslnam/data-science-portfolio/tree/master/visualization/risk-index): Created a "quick and dirty" exploratory data analysis dashboard and an interactive map of risk indicators by country using leaflet. Developed a Shiny app to compile all interactive visualizations.
+		- [Exploring, Mapping, and Visualizing Conflict Risk Indicators](https://github.com/yslnam/data-science-portfolio/tree/master/apps/shiny_risk-index): Created a "quick and dirty" exploratory data analysis dashboard and an interactive map of risk indicators by country using leaflet. Developed a Shiny app to compile all interactive visualizations.
 	
 		- [Measuring and Visualizing "Trendiness" of TED Talks](): Constructed multivariate/composite indicator to measure “trendiness” of global issues, science, and technology TED Talks. Visualized trends on a variety of measures. (See previously: "[Cleaning Scraped TED Talks](https://github.com/yslnam/data-science-portfolio/tree/master/data/cleaning/scraping-ted-talks)")
 	
