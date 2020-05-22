@@ -46,7 +46,7 @@ Projects:
 	_Libraries/Packages: NumPy, Pandas, Pandas API, datetime, PyProj, category_encoders (including CatBoost)_ 
 
 	- __R__ 
-		- [Cleaning Scraped TED Talks](https://github.com/yslnam/data-science-portfolio/tree/master/data/cleaning/scraping-ted-talks): Cleaned and wrangled scraped data from TED Talks. (See previously: "[Scraping TED Talks](https://github.com/yslnam/data-science-portfolio/tree/master/data/extraction/scraping-ted-talks)"; See next: "[Measuring Trendiness of TED Talks]()")
+		- [Cleaning Scraped TED Talks](https://github.com/yslnam/data-science-portfolio/tree/master/data/cleaning/scraping-ted-talks): Cleaned and wrangled scraped data from TED Talks. (See previously: "[Scraping TED Talks](https://github.com/yslnam/data-science-portfolio/tree/master/data/extraction/scraping-ted-talks)"; See next: "[Measuring amd Visualizing Trendiness of TED Talks](https://github.com/yslnam/data-science-portfolio/tree/master/data/analysis_and_visualization/scraping-ted-talks)")
 		
 	_Libraries/Packages: tidyverse, lubridate, janitor_ 		
 
