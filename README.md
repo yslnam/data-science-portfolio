@@ -8,19 +8,19 @@ A repository containing data science projects completed by me for school, self-t
 
 ## Directory Structure
 ```
-├── README.md           <- Top-level README
+├── README.md           		<- Top-level README
 │
-├── data                <- All tasks for unstructured and structured data types
-│   ├── extraction      <- Unstructured data extraction, e.g. web scraping
-│   ├── cleaning 	<- Raw, structured data cleaning and wrangling
-│   ├── processing    	<- Structured data preprocessing and processing
-│   ├── analysis    	<- Structured data analysis
+├── data                		<- All tasks for unstructured and structured data types
+│   ├── extraction      		<- Unstructured data extraction, e.g. web scraping
+│   ├── cleaning 			<- Raw data cleaning and wrangling
+│   ├── processing    			<- Data preprocessing and processing
+│   ├── analysis_and_visualization    	<- Data analysis and visualization
 │
-├── modeling           	<- Trained and tested regression, machine learning, and NLP models
+├── modeling           			<- Trained and tested regression, machine learning, and NLP models
 │
-├── visualizations      <- Data visualization and reporting
+├── apps      				<- Interactive data visualization
 │                                           
-├── .gitignore          <- Avoids uploading data, credentials, outputs, system files etc
+├── .gitignore          		<- Avoids uploading data, credentials, outputs, system files etc
 ```
 
 ## Projects
