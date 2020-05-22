@@ -58,7 +58,7 @@ A repository containing data science projects completed by me for school, self-t
 
 - ### Modeling
 	- __Machine Learning__
-		- [Predicting Housing Prices in Ames, Iowa](): Modeled (trained) and predicted (tested) housing prices in Ames, Iowa using random forest, an unsupervised learning method. (See previously: "[Encoding Categorical Features for Predictive Modeling of Ames Housing Prices]()"; Seenext: "[Valuating Houses in Ames, Iowa]()")
+		- [Predicting Housing Prices in Ames, Iowa](): Modeled and predicted housing prices in Ames, Iowa using Lasso Regression, ElasticNet Regression, Ridge Regression, Random Forest, and XGBoost (Gradient Boosting). Primarily responsible for Random Forest. (See previously: "[Encoding Categorical Features for Predictive Modeling of Ames Housing Prices]()"; See next: "[Valuating Houses in Ames, Iowa]()")
 		
 	 _Libraries/Packages: scikit-learn_ 
 	
