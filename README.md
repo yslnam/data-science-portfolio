@@ -61,7 +61,7 @@ A repository containing data science projects completed by me for school, self-t
 	- __R__ 
 		- [Exploring, Mapping, and Visualizing Conflict Risk Indicators](https://github.com/yslnam/data-science-portfolio/tree/master/apps/shiny_risk-index): Created a "quick and dirty" exploratory data analysis dashboard and an interactive map of risk indicators by country using leaflet. Developed a Shiny app to compile all interactive visualizations.
 	
-		- [Measuring and Visualizing "Trendiness" of TED Talks](): Constructed multivariate/composite indicator to measure “trendiness” of global issues, science, and technology TED Talks. Visualized trends on a variety of measures. (See previously: "[Cleaning Scraped TED Talks](https://github.com/yslnam/data-science-portfolio/tree/master/data/cleaning/scraping-ted-talks)")
+		- [Measuring and Visualizing "Trendiness" of TED Talks](https://github.com/yslnam/data-science-portfolio/tree/master/data/analysis_and_visualization/scraping-ted-talks): Constructed multivariate/composite indicator to measure “trendiness” of global issues, science, and technology TED Talks. Visualized trends on a variety of measures. (See previously: "[Cleaning Scraped TED Talks](https://github.com/yslnam/data-science-portfolio/tree/master/data/cleaning/scraping-ted-talks)")
 	
 	_Libraries/Packages: tidyverse, lubridate, Shiny, shinydashboard, shinythemes, rgdal, leaflet, sp, RColorBrewer, reshape2, paletteer, ggally, hrbrthemes_ 
 
