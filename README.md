@@ -20,7 +20,8 @@ A repository containing data science projects completed by me for school, self-t
 │
 ├── apps      				<- Interactive data visualization
 │                                           
-├── .gitignore          		<- Avoids uploading data, credentials, outputs, system files etc
+├── .gitignore          		<- Avoids uploading data, credentials, outputs,
+│					   system files, etc
 ```
 
 ## Projects
