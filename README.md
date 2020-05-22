@@ -50,6 +50,12 @@ Projects:
 		
 	_Libraries/Packages: tidyverse, lubridate, janitor_ 		
 
+- ### Modeling
+	- __Machine Learning__
+		- [Predicting Housing Prices in Ames, Iowa](https://github.com/yslnam/data-science-portfolio/tree/master/modeling/ML/predict-ames-housing-prices): Modeled and predicted housing prices in Ames, Iowa using Lasso Regression, ElasticNet Regression, Ridge Regression, Random Forest, and XGBoost (Gradient Boosting). Collaborated with teammates on all models, with each member directly responsible for each model. Primarily responsible for Random Forest. (See previously: "[Encoding Categorical Features for Predictive Modeling of Ames Housing Prices](https://github.com/yslnam/data-science-portfolio/tree/master/data/processing/predict-ames-housing-prices)"; See next: "[Valuating Houses in Ames, Iowa](https://github.com/yslnam/data-science-portfolio/blob/master/modeling/ML/predict-ames-housing-prices/yousun_random-forest.ipynb)")
+		
+	 _Libraries/Packages: scikit-learn, pprint, rfpimp, treeinterpreter_ 
+
 - ### Data Analysis and Visualization
 	- __Python__
 		- [Exploring Feature Engineered CitiBike Data](https://github.com/yslnam/data-science-portfolio/tree/master/data/analysis_and_visualization/citibike-data): Conducted exploratory data analysis of feature engineered CitiBike Data. Identified user, geographic, and station usage, and net inflow/outflow patterns in CitiBike rides in order to identify underserved population. Visualized user, geographic, and station usage patterns in CitiBike rides from feature engineered data. (See previously: "[Feature Engineering CitiBike Data](https://github.com/yslnam/data-science-portfolio/tree/master/data/processing/citibike-data)")
@@ -64,9 +70,3 @@ Projects:
 		- [Measuring and Visualizing "Trendiness" of TED Talks](https://github.com/yslnam/data-science-portfolio/tree/master/data/analysis_and_visualization/scraping-ted-talks): Constructed multivariate/composite indicator to measure “trendiness” of global issues, science, and technology TED Talks. Visualized trends on a variety of measures. (See previously: "[Cleaning Scraped TED Talks](https://github.com/yslnam/data-science-portfolio/tree/master/data/cleaning/scraping-ted-talks)")
 	
 	_Libraries/Packages: tidyverse, lubridate, Shiny, shinydashboard, shinythemes, rgdal, leaflet, sp, RColorBrewer, reshape2, paletteer, ggally, hrbrthemes_ 
-
-- ### Modeling
-	- __Machine Learning__
-		- [Predicting Housing Prices in Ames, Iowa](https://github.com/yslnam/data-science-portfolio/tree/master/modeling/ML/predict-ames-housing-prices): Modeled and predicted housing prices in Ames, Iowa using Lasso Regression, ElasticNet Regression, Ridge Regression, Random Forest, and XGBoost (Gradient Boosting). Collaborated with teammates on all models, with each member directly responsible for each model. Primarily responsible for Random Forest. (See previously: "[Encoding Categorical Features for Predictive Modeling of Ames Housing Prices](https://github.com/yslnam/data-science-portfolio/tree/master/data/processing/predict-ames-housing-prices)"; See next: "[Valuating Houses in Ames, Iowa](https://github.com/yslnam/data-science-portfolio/blob/master/modeling/ML/predict-ames-housing-prices/yousun_random-forest.ipynb)")
-		
-	 _Libraries/Packages: scikit-learn, pprint, rfpimp, treeinterpreter_ 
