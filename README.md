@@ -4,7 +4,7 @@ A repository containing data science projects completed by me for school, self-t
 * Languages: Python, R
 * Format: iPython, R Markdown, R Shiny Server and UI
 * Demonstrated skills: Extraction, Cleaning, Wrangling, Processing, Analysis, Modeling, Visualization
-* Specialities: Web Scraping, Machine Learning
+* Specialities: Shiny App, Web Scraping, Machine Learning
 
 Projects:
 1. Macro Risk Index: Conflict Risk Indicators
