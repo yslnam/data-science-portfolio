@@ -4,7 +4,7 @@ A repository containing data science projects completed by me for school, self-t
 * Languages: Python, R
 * Format: iPython, R Markdown, R Shiny Server and UI
 * Demonstrated skills: Extraction, Cleaning, Wrangling, Processing, Analysis, Modeling, Visualization
-* Specialities: Web Scraping, Machine Learning, Natural Language Processing (NLP)
+* Specialities: Web Scraping, Machine Learning
 
 ## Directory Structure
 ```
@@ -58,14 +58,9 @@ A repository containing data science projects completed by me for school, self-t
 
 - ### Modeling
 	- __Machine Learning__
-		- [Predicting Housing Prices in Ames, Iowa](): Modeled and predicted housing prices in Ames, Iowa using Lasso Regression, ElasticNet Regression, Ridge Regression, Random Forest, and XGBoost (Gradient Boosting). Primarily responsible for Random Forest. (See previously: "[Encoding Categorical Features for Predictive Modeling of Ames Housing Prices]()"; See next: "[Valuating Houses in Ames, Iowa]()")
+		- [Predicting Housing Prices in Ames, Iowa](): Modeled and predicted housing prices in Ames, Iowa using Lasso Regression, ElasticNet Regression, Ridge Regression, Random Forest, and XGBoost (Gradient Boosting). Collaborated with teammates, with each member responsible for a model. Primarily responsible for Random Forest. (See previously: "[Encoding Categorical Features for Predictive Modeling of Ames Housing Prices]()"; See next: "[Valuating Houses in Ames, Iowa]()")
 		
 	 _Libraries/Packages: scikit-learn_ 
-	
-	- __NLP__
-		- [User Sentiment on TED Talk Trends](): Modeled and analyzed user comments from trending TED Talks in global issues, science, and technololgy. (See previously: "[Measuring 'Trendiness' of TED Talks](); See next: "[Visualizing Trends in TED Talks]()")
-		
-	 _Libraries/Packages: NTLK, scikit-learn_ 
 
 - ### Data Visualization
 	- __Python__
