@@ -25,7 +25,7 @@ A repository containing data science projects completed by me for school, self-t
 ```
 
 ## Projects
-1. Macro Risk Index
+1. Macro Risk Index: Conflict Risk Indicators
 2. Trends in TED Talks on Global Issues, Science, and Technology
 3. Valuating Houses in Ames, Iowa Using Predictive Modeling
 4. Identifying Underserved Populations as CitiBike Customers
