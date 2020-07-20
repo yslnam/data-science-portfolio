@@ -7,10 +7,10 @@ A repository containing data science projects completed by me for school, self-t
 * Specialities: Shiny App, Web Scraping, Machine Learning
 
 Projects:
-1. Macro Risk Index: Conflict Risk Indicators
-2. Trends in TED Talks on Global Issues, Science, and Technology
-3. Valuating Houses in Ames, Iowa Using Predictive Modeling
-4. Identifying Underserved Populations as CitiBike Customers
+1. Macro Risk Index: Conflict Risk Indicators: [Blog Post](https://nycdatascience.com/blog/student-works/macro-risk-index-a-tool-for-efficient-exploratory-data-analysis-of-complex-datasets/) | Original Repo
+2. Scraping TED Talks: Trends in TED Talks on Global Issues, Science, and Technology: [Blog Post](https://nycdatascience.com/blog/student-works/web-scraping/scraping-ted-talks/) | [Original Repo](https://github.com/yslnam/global_tech_sci)
+3. Valuating Houses in Ames, Iowa Using Predictive Modeling: [Blog Post](https://nycdatascience.com/blog/student-works/evaluating-home-buying-opportunities-with-machine-learning/) | [Original Repo](https://github.com/mkwasnica/ML_housingprices)
+4. Identifying Underserved Populations as CitiBike Customers: Blog Post (TBA) | [Original Repo](https://github.com/yslnam/mofo_bikes)
 
 ## Directory Structure
 ```
