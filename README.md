@@ -1,5 +1,5 @@
 # Data Science Portfolio
-A repository containing data science projects completed by me for school, self-taught purposes, and/or fun. Curated for professional reasons.
+A repository containing curated data science projects completed by me for school, self-taught purposes, and/or fun.
 
 * Languages: Python, R
 * Format: iPython, R Markdown, R Shiny Server and UI
